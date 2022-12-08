@@ -27,7 +27,27 @@ main {
     background-color:#F7ECDE;
 
 }
+.intro{
+    display: grid;
+    grid-template-columns: 50% 50%;
 
+
+}
+.box2 img{
+    box-shadow: .1em .1em .2em #54BAB9;
+    border-radius: 50%;
+    border-width: .01em;
+    border-style: solid;
+    margin-left:9vw;
+    margin-bottom: .5em;
+    margin-top: 1.3em;
+    background-color:#F7ECDE;  
+    width:11vw;
+    height: 11vw;
+}
+div p{
+width: 30vw;;
+}
 h1 {
     color: navy;
     margin: 0em;
